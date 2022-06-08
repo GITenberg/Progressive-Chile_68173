@@ -1,0 +1,26 @@
+_repo: Progressive-Chile_68173
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mansfield, Robert E.
+    gutenberg_agent_id: '54638'
+    url: http://www.gutenberg.org/2009/agents/54638
+description: ''
+gutenberg_issued: '2022-05-25'
+identifiers:
+  gutenberg: '68173'
+language: en
+pgterms:marc904: https://archive.org/details/progressivechile00mans/page/n7/mode/2up
+pgterms:marc905: 20201221071345mansfield
+pgterms:marc906: '1913'
+pgterms:marc907: us
+production_note: Sonya Schermann and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :The Neale Publishing Company,1913.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Progressive Chile
+url: http://www.gutenberg.org/ebooks/68173
